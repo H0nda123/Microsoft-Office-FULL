@@ -1,0 +1,6 @@
+{
+	"ip":"mcskycraft.aternos.ip",
+	"port": "25565",
+	"name": "24/7 Checker",
+	"auto-night-skip":"true"
+}
